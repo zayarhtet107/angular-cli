@@ -2,20 +2,20 @@
   "description": "snapshot versions of Angular for e2e testing",
   "private": true,
   "dependencies": {
-    "@angular/animations": "github:angular/animations-builds#fc2c2a8fff115f1fd2bf37b6f8fffc2cde3d9733",
+    "@angular/animations": "https://767368-24195339-gh.circle-artifacts.com/0/angular/animations-pr38076-7fc77a368d.tgz",
     "@angular/cdk": "github:angular/cdk-builds#4740c504bc721cb9ee84686e6ff40bac0e4068d6",
-    "@angular/common": "github:angular/common-builds#7b930a49f1494a01d56f0b01543bf4c4182d09a4",
-    "@angular/compiler": "github:angular/compiler-builds#77ccbfc3f7a42a50da9197563565bf3c7e7c7c3c",
-    "@angular/compiler-cli": "github:angular/compiler-cli-builds#437f5e866b452f3403c9c34758298a666b3d3d09",
-    "@angular/core": "github:angular/core-builds#64f24aed204229b1d96cbaf77e9cc027f3d6b773",
-    "@angular/forms": "github:angular/forms-builds#966dc9f8d6afab3d8ec095832c1e838234779822",
-    "@angular/language-service": "github:angular/language-service-builds#4871667688bad908e8172648f83178d920d1d177",
-    "@angular/localize": "github:angular/localize-builds#794b8e981c7e8aee2071862995b43f93239e6a22",
+    "@angular/common": "https://767368-24195339-gh.circle-artifacts.com/0/angular/common-pr38076-7fc77a368d.tgz",
+    "@angular/compiler": "https://767368-24195339-gh.circle-artifacts.com/0/angular/compiler-pr38076-7fc77a368d.tgz",
+    "@angular/compiler-cli": "https://767368-24195339-gh.circle-artifacts.com/0/angular/compiler-cli-pr38076-7fc77a368d.tgz",
+    "@angular/core": "https://767368-24195339-gh.circle-artifacts.com/0/angular/core-pr38076-7fc77a368d.tgz",
+    "@angular/forms": "https://767368-24195339-gh.circle-artifacts.com/0/angular/forms-pr38076-7fc77a368d.tgz",
+    "@angular/localize": "https://767368-24195339-gh.circle-artifacts.com/0/angular/localize-pr38076-7fc77a368d.tgz",
     "@angular/material": "github:angular/material2-builds#4bd8dcd443a0e644fec5939ea3bffd30005c1fcb",
     "@angular/material-moment-adapter": "github:angular/material-moment-adapter-builds#e3a19ce525b13650bf537d0e1843c5f581001de4",
-    "@angular/platform-browser": "github:angular/platform-browser-builds#8ce34a553a1122816a1b6283ecbb5983de1bfe74",
-    "@angular/platform-browser-dynamic": "github:angular/platform-browser-dynamic-builds#4dc0dd821371e9bc054d4fc920d3a9ffcce5ce5d",
-    "@angular/platform-server": "github:angular/platform-server-builds#75ac7b5d4e5f1bdc9dbd60719fdd08eaec463332",
-    "@angular/router": "github:angular/router-builds#7613d3fbca474676535a7769509cd0bf1ff123c4"
+    "@angular/platform-browser": "https://767368-24195339-gh.circle-artifacts.com/0/angular/platform-browser-pr38076-7fc77a368d.tgz",
+    "@angular/platform-browser-dynamic": "https://767368-24195339-gh.circle-artifacts.com/0/angular/platform-browser-dynamic-pr38076-7fc77a368d.tgz",
+    "@angular/platform-server": "https://767368-24195339-gh.circle-artifacts.com/0/angular/platform-server-pr38076-7fc77a368d.tgz",
+    "@angular/router": "https://767368-24195339-gh.circle-artifacts.com/0/angular/router-pr38076-7fc77a368d.tgz",
+    "@angular/service-worker": "https://767368-24195339-gh.circle-artifacts.com/0/angular/service-worker-pr38076-7fc77a368d.tgz"
   }
 }
